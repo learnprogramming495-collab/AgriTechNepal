@@ -1,0 +1,3 @@
+# AgriTech Nepal
+
+Welcome to the AgriTech Nepal project! This project aims to ...
